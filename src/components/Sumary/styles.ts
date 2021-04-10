@@ -12,6 +12,12 @@ export const Container = styled.div`
     border-radius: 0.25rem;
     color: var(--text-title);
 
+    transition: transform .3s ease-out;
+
+    &:hover {
+      transform: scale(1.1);
+    }
+
     header {
       display: flex;
       align-items: center;
