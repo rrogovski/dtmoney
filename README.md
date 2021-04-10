@@ -2,7 +2,7 @@
 
 ## View Demo
 
-Open [Onlie Demo](https://dtmoney-sage.vercel.app/) to view it in the browser.
+Open [Online Demo](https://dtmoney-sage.vercel.app/) to view it in the browser.
 ## Screen
 
 ![dtmoney](https://user-images.githubusercontent.com/10521603/114140249-0640be00-98de-11eb-87a6-a0a169d09da9.png)
